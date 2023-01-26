@@ -4,11 +4,11 @@ Shahmukhi is the writing script for Western Punjabi which is mainly written in P
 
 # Citation
 
-@article{tehseen2022neural,
-  title={Neural POS tagging of shahmukhi by using contextualized word representations},
-  author={Tehseen, Amina and Ehsan, Toqeer and Liaqat, Hannan Bin and Ali, Amjad and Al-Fuqaha, Ala},
-  journal={Journal of King Saud University-Computer and Information Sciences},
-  year={2022},
-  publisher={Elsevier},
-  DOI={https://doi.org/10.1016/j.jksuci.2022.12.004}
-}
+@article{tehseen2022neural,<br />
+__  title={Neural POS tagging of shahmukhi by using contextualized word representations},<br />
+__  author={Tehseen, Amina and Ehsan, Toqeer and Liaqat, Hannan Bin and Ali, Amjad and Al-Fuqaha, Ala},<br />
+__  journal={Journal of King Saud University-Computer and Information Sciences},<br />
+__  year={2022},<br />
+__  publisher={Elsevier},<br />
+__  DOI={https://doi.org/10.1016/j.jksuci.2022.12.004}<br />
+}<br />
